@@ -1,5 +1,5 @@
 # Assignment 2 - UNI415 Tim Tujuh
-Kode sederhana esp32 melakukan collect data sensor dan mengirim ke dashboard ubidots [Dashboard](https://stem.ubidots.com/app/dashboards/public/dashboard/uJqoAcx-FtJALYXagBteM3zG94Xks1T10U2untlXRdA?navbar=true&contextbar=true&datePicker=true&devicePicker=true&displayTitle=true) dan mongodb atlas.
+Kode sederhana esp32 melakukan collect data sensor dan mengirim ke dashboard ubidots [Dashboard](https://stem.ubidots.com/app/dashboards/public/dashboard/lvaP28Nk53BCHKAnCaAvYak4ZQhuH_SsENEs8u3-PTM?navbar=true&contextbar=true&datePicker=true&devicePicker=true&displayTitle=true) dan mongodb atlas.
 
 ## Tutorial running kode :
 - Pastikan laptop dan esp32 berada di jaringan internet yang sama
