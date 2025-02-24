@@ -144,4 +144,4 @@ if __name__ == '__main__':
     connect_wifi()  # Hubungkan Wi-Fi saat startup
     while True:
         main()
-        time.sleep(10)  # Kirim data setiap 5 detik
+        time.sleep(10)  # Kirim data setiap 10 detik
